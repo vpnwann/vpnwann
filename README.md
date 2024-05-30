@@ -2,7 +2,6 @@
 
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on bulding projects
 - 🌱 I’m currently learning Nextjs and Nodejs
 - 👯 I’m looking to collaborate on Open Source
