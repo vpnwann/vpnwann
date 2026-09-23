@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vpnwann/vpnwann/assets/38458966/db46f94e-9532-453f-aeb5-250707154fa1" width="85%" />
+  <img src="https://github.com/vpnwann/vpnwann/assets/8966/db46f94e-9532-453f-aeb5-250707154fa1" width="85%" />
 </p>
 
 ---
@@ -413,8 +413,8 @@ Production servers, Docker environments, networking, cloud infrastructure and au
 # 🧪 Currently Exploring
 
 <p align="center">
-  <img src="https://github.com/vpnwann/vpnwann/assets/38458966/77f104c8-ed5f-4cf6-9ba2-b9719b5e95ac" width="42%" />
-  <img src="https://github.com/vpnwann/vpnwann/assets/38458966/71c57e47-1dab-4fb6-a980-1528d5946a3c" width="42%" />
+  <img src="[https://github.com/vpnwann/vpnwann/assets/38458966/77f104c8-ed5f-4cf6-9ba2-b9719b5e95ac](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="42%" />
+  <img src="[https://github.com/vpnwann/vpnwann/assets/38458966/71c57e47-1dab-4fb6-a980-1528d5946a3c](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="42%" />
 </p>
 
 <p align="center">
