@@ -50,7 +50,7 @@ I'm a **Full-Stack Engineer** working across web, mobile, backend, cloud infrast
 ### 🌐 Web & Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative + expo ,html,css,tailwind" alt="Web technologies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative , expo ,html,css,tailwind" alt="Web technologies" />
 </p>
 
 ### ⚙️ Backend & Databases
