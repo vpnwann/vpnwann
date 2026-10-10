@@ -62,7 +62,7 @@ I'm a **Full-Stack Engineer** working across web, mobile, backend, cloud infrast
 ### ☁️ DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,cloudflare,linux,nginx,git,github,vscode,postman" alt="DevOps and infrastructure technologies" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare,linux,nginx,git,github,vscode,postman" alt="DevOps and infrastructure technologies" />
 </p>
 
 ---
